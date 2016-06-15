@@ -2,7 +2,7 @@
 
 A multiplayer game that has nothing to do with pickles.
 
-To play, download the correct folder for your operating system from [here](https://drive.google.com/folderview?id=0B4u2AxZG4TyoUENOVVF6bGRwTmM&usp=sharing), unzip it, then run the file inside.
+To play, download the correct folder (click on the zip file then the link will be at the top of the page) for your operating system from [here](https://drive.google.com/folderview?id=0B4u2AxZG4TyoUENOVVF6bGRwTmM&usp=sharing), unzip it, then run the file inside.
 
 W, A, S, D: Move
 Up, Down, Left, Right: Look
