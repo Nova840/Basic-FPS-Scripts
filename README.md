@@ -1,6 +1,4 @@
-# Pickles
-
-###A multiplayer game that has nothing to do with pickles.
+#A Basic Networked FPS Game
 
 ###To play, download the correct folder (click on the zip file then the link will be at the top of the page) for your operating system from [here](https://drive.google.com/folderview?id=0B4u2AxZG4TyoUENOVVF6bGRwTmM&usp=sharing), unzip it, then run the file inside.
 
